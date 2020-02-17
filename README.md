@@ -1,1 +1,1 @@
-# nflrushbowl
+The goal of this project is to gain some statistical insights into the NFL Running game. The data comes from the NFL Rushbowl competition that can be found at https://www.kaggle.com/c/nfl-big-data-bowl-2020. The project takes a look at what defense is most effective and what formations are the most effective to run out of.
